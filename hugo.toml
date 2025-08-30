@@ -5,3 +5,7 @@ theme = 'mini'
 
 [params]
 subTitle = 'Where I code for fun.'
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
