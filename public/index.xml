@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NonEntity</title>
+    <link>https://nonentitydev.githubpages.com/</link>
+    <description>Recent content on NonEntity</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Aug 2025 10:31:00 +0100</lastBuildDate>
+    <atom:link href="https://nonentitydev.githubpages.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My poor man backup and NAS: Part 1 - Breaking the inertia</title>
+      <link>https://nonentitydev.githubpages.com/posts/poors-man-backup-introduction/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nonentitydev.githubpages.com/posts/poors-man-backup-introduction/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR &lt;a href=&#34;#tldr&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;I need a very low-cost but reliable backup routine, which I’ve been neglecting for too long.&lt;/li&gt;&#xA;&lt;li&gt;I want to follow the &lt;strong&gt;3-2-1 backup rule&lt;/strong&gt;: 3 copies of my data, 2 different storage media, 1 off-site storage.&lt;/li&gt;&#xA;&lt;li&gt;I calculated my storage requirements based on real usage.&lt;/li&gt;&#xA;&lt;li&gt;My starting setup: 1 Raspberry Pi 4B (2GB RAM), 1 × 256GB SSD, 1 × 1TB USB HDD, and AWS S3 Glacier Deep Archive.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction &lt;a href=&#34;#introduction&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;I have been using cloud storage systems as my main way to sync and &lt;strong&gt;backup&lt;/strong&gt; data for the past 10 years (at least). Yes, I know, cloud storage like OneDrive, Goole Drive, Dropbox, etc. are not meant to be used as backup solutions, and I shouldn&amp;rsquo;t be feeding big tech monsters with more data. Especially personal data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

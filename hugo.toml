@@ -1,0 +1,7 @@
+baseURL = 'https://nonentitydev.githubpages.com/'
+languageCode = 'en-us'
+title = 'NonEntity'
+theme = 'mini'
+
+[params]
+subTitle = 'Where I code for fun.'
