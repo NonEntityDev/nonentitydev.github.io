@@ -2,6 +2,9 @@
 date = '2025-08-28T10:31:00+01:00'
 title = 'My poor man backup and NAS: Part 1 - Breaking the inertia'
 publishDate = '2025-08-28'
+categories = ['Automation']
+tags = ['backup', 'linux', 'bash']
+summary = 'Tired of relying on overpriced, privacy-invasive cloud services, I finally decided to build my own backup system — something low-cost, reliable, and fun to tinker with. In this post series, I’m documenting my journey to set up a 3-2-1 backup routine using what I already have: a Raspberry Pi, some spare drives, and a bit of scripting. The goal? Keep my data safe without breaking the bank or overcomplicating things.'
 +++
 
 ## TL;DR
